@@ -8,3 +8,5 @@ cd ObjClassification
 yarn install
 
 yarn android
+
+video: https://youtube.com/playlist?list=PLNESvw1dWya_4q5VLu69HiVx23PTrxiCt
